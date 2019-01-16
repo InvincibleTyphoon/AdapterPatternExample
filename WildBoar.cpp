@@ -5,6 +5,7 @@
 WildBoar::WildBoar()
 {
 	this->name = "¸äµÅÁö";
+	this->hp = 30;
 	this->grawlSound = "²Ü²Ü";
 }
 

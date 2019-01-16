@@ -3,6 +3,7 @@
 Wolf::Wolf()
 {
 	this->name = "期渠";
+	this->hp = 10;
 	this->grawlSound = "嬴辦辦辦";
 }
 

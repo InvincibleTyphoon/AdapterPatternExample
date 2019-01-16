@@ -5,16 +5,12 @@
 
 using namespace std;
 
+//¸äµÅÁö ¸ó½ºÅÍ
 class WildBoar : public Monster
 {
 public:
 	WildBoar();
 	void grawl() override;
 	string getName() override;
-
-private:
-	string name;
-	int hp;
-	string grawlSound;
 };
 
